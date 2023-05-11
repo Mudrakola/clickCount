@@ -1,0 +1,33 @@
+.bg-container {
+  background-color: #f1f5f8;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.paragraph-1 {
+  font-family: 'Roboto';
+  font-size: 35px;
+  color: #2d3a35;
+  font-weight: bold;
+  max-width: 500px;
+  text-align: center;
+}
+.paragraph-2 {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #2d3a35;
+}
+.button {
+  font-family: 'Roboto';
+  font-size: 15px;
+  background-color: #007bff;
+  padding: 10px;
+  border-radius: 8px;
+  color: #ffffff;
+  border-width: 0px;
+  cursor: pointer;
+  outline: none;
+}
